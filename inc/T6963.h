@@ -22,6 +22,7 @@ r8 - Got 6bit font width (s/b any fonth width) working.
 #define T6963_h
 
 #include "inttypes.h"
+#include "mbed.h"
 #include "T6963_Commands.h"
 #include "T6963Data.h"
 #include "T6963Cmd.h"

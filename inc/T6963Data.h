@@ -2,8 +2,8 @@
 #define T6963DATA_h
 
 #include "mbed.h"
-#include "../GPIOLib/inc/PortInOutInterface.h"
-#include "../GPIOLib/inc/DigitalInOutInterface.h"
+#include "PortInOutInterface.h"
+#include "DigitalInOutInterface.h"
 
 class T6963Data{
 public:

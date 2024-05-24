@@ -1,4 +1,3 @@
-#include "mbed.h"
 #include "../inc/T6963Data.h"
 
 T6963Data::T6963Data(PortInOutInterface *port, int mask) {

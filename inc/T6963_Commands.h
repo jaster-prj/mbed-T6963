@@ -1,3 +1,6 @@
+#ifndef T6963_COMMANDS_H
+#define T6963_COMMANDS_H
+
 #define T6963_SET_CURSOR_POINTER	      0x21
 #define T6963_SET_OFFSET_REGISTER	      0x22
 #define T6963_SET_ADDRESS_POINTER	      0x24
@@ -23,3 +26,5 @@
 
 #define T6963_SCREEN_PEEK		          0xE0
 #define T6963_SCREEN_COPY		          0xE8
+
+#endif

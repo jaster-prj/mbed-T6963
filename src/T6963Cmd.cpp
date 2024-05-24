@@ -1,4 +1,3 @@
-#include "mbed.h"
 #include "../inc/T6963Cmd.h"
 
 T6963Cmd::T6963Cmd(PortOutInterface *port, int cd_mask, int wr_mask, int rd_mask, int ce_mask, int fs_mask, int rst_mask) {

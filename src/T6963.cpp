@@ -18,7 +18,6 @@ r6 - Checked in with SVN
 r7 - Checked in with cursor controls added
 r8 - Got 6bit font width (s/b any fonth width) working.
 -----------------------------------------------------------------------------------------------*/
-#include "mbed.h"
 #include "../inc/T6963.h"
 #include "../inc/T6963_Commands.h"
 

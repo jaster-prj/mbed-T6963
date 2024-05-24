@@ -2,8 +2,8 @@
 #define T6963CMD_h
 
 #include "mbed.h"
-#include "../GPIOLib/inc/PortOutInterface.h"
-#include "../GPIOLib/inc/DigitalOutInterface.h"
+#include "PortOutInterface.h"
+#include "DigitalOutInterface.h"
 
 #define T6963_CMD_CD  0x1
 #define T6963_CMD_WR  0x2
