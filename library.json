@@ -1,0 +1,29 @@
+{
+  "name": "T6963",
+  "version": "0.1.0",
+  "description": "MBED OS Library for interacting with \"T6963\" LCD Controller",
+  "keywords": "T6963, LCD, mbed os",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jaster-prj/mbed-T6963.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Radosław Kwiecień",
+      "url": "http://en.radzio.dxp.pl/t6963/"
+    },
+    {
+      "name": "Tobias Jaster",
+      "email": "t.jaster@posteo.de",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jaster-prj/GPIOLib": "~0.1.0"
+  },
+  "frameworks": "mbed",
+  "platforms": "*"
+}
