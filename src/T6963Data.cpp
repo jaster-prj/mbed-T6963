@@ -1,4 +1,4 @@
-#include "../inc/T6963Data.h"
+#include "../include/T6963Data.h"
 
 T6963Data::T6963Data(PortInOutInterface *port, int mask) {
     _port = port;

@@ -18,8 +18,8 @@ r6 - Checked in with SVN
 r7 - Checked in with cursor controls added
 r8 - Got 6bit font width (s/b any fonth width) working.
 -----------------------------------------------------------------------------------------------*/
-#include "../inc/T6963.h"
-#include "../inc/T6963_Commands.h"
+#include "../include/T6963.h"
+#include "../include/T6963_Commands.h"
 
 //-------------------------------------------------------------------------------------------------
 //

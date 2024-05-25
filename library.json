@@ -1,6 +1,6 @@
 {
   "name": "T6963",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MBED OS Library for interacting with \"T6963\" LCD Controller",
   "keywords": "T6963, LCD, mbed os",
   "repository":
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "jaster-prj/GPIOLib": "~0.1.0"
+    "jaster-prj/GPIOLib": "~0.1.1"
   },
   "frameworks": "mbed",
   "platforms": "*"
